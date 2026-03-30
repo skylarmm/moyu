@@ -30,14 +30,14 @@
 | 🎭 **一键场景切换** | 瞬间切换到预设的"工作状态"，老板/老师走了再切回来 |
 | 🔇 **一键关闭音频** | 触发时自动静音，不留声音破绽 |
 | 🖼️ **伪装壁纸** | 上传自定义图片作为伪装桌面，以假乱真 |
-| 🎙️ **声音触发** | 大声说话/吼叫即可触发（居家办公专属） |
+| 🎙️ **声音触发** | 僵尸吼叫即可触发（居家办公专属） |
 
 | Feature | Description |
 |---------|-------------|
 | 🎭 **Scene Switch** | Instantly switch to your preset "work mode" and back |
 | 🔇 **Audio Mute** | Auto-mutes sound on trigger — no audio leaks |
 | 🖼️ **Fake Wallpaper** | Upload a custom image as your decoy desktop |
-| 🎙️ **Voice Trigger** | Shout to trigger — perfect for working from home |
+| 🎙️ **Voice Trigger** | Zombie stealth  to trigger — perfect for working from home |
 
 ---
 
