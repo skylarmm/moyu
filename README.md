@@ -1,4 +1,6 @@
 # moyu
+<img width="2752" height="1536" alt="Gemini_Generated_Image_laxtxplaxtxplaxt" src="https://github.com/user-attachments/assets/2e1cefba-2e88-4f52-8c6d-cade8351dcc0" />
+
 # 🧟 Zombie Stealth
 
 **永远看起来很忙 / Always look busy.**
