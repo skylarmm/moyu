@@ -82,7 +82,7 @@ Found a bug or have a feature request? Reach out:
 - 📧 Email：`contact@clihunt.dev`
 - 🐦 X (Twitter)：`Skylar@sc8skylar`
 - 💬 应用内反馈 / In-app feedback button
-- ![WeixingWechatGIF](https://github.com/user-attachments/assets/22d3c4f8-9842-49f8-a071-9d4d59d6536c) wechat：kailaskylar
+- 🍋‍🟩 wechat：kailaskylar
 
 
 ---
