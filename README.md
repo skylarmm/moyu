@@ -93,5 +93,5 @@ Found a bug or have a feature request? Reach out:
 ---
 
 <p align="center">
-  Made with 🧟 by yourname · <a href="https://yourwebsite.com">官网 / Website</a>
+  Made with 🧟 by Skylar 
 </p>
