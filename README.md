@@ -12,7 +12,7 @@
 
 ## 下载 / Download
 
-**Windows**：[⬇️ 下载最新版 / Download Latest](https://github.com/yourname/zombie-stealth/releases/latest)
+**Windows**：[⬇️ 下载最新版 / Download Latest]([https://github.com/yourname/zombie-stealth/releases/latest](https://github.com/skylarmm/moyu/releases/latest))
 
 > ⚠️ **Windows 安全提示 / Windows Security Notice**  
 > 首次运行可能弹出"Windows 已保护你的电脑"提示。  
